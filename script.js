@@ -1,0 +1,1 @@
+console.log("Assignment 2 Js file added");
